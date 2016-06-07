@@ -1,6 +1,6 @@
 FROM java:8
 
-MAINTAINER pete@olemassa.com
+MAINTAINER petri.niemi@gmail.com
 
 RUN wget \
 	https://repository.mulesoft.org/nexus/content/repositories/releases/org/mule/distributions/mule-standalone/3.8.0/mule-standalone-3.8.0.tar.gz \
